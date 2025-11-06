@@ -1,1 +1,36 @@
-# Web-project
+# <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Roshni's Portfolio</title>
+  <style>
+    body {
+      background: linear-gradient(135deg, #ffb6c1, #ffe5ec);
+      text-align: center;
+      font-family: 'Poppins', sans-serif;
+      padding: 40px;
+    }
+    h1 {
+      color: #ff0066;
+    }
+    p {
+      color: #333;
+    }
+    a {
+      background-color: #ff0066;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 10px;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <h1>👋 Hi, I'm Roshni</h1>
+  <p>💻 Polytechnic Computer Science Student</p>
+  <p>🌏 Dreaming to do internship in Japan 🇯🇵</p>
+  <a href="https://github.com/roseyadav838200-create">Visit My GitHub</a>
+</body>
+</html> 
+created new index.html"
